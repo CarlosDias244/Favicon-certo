@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&display=swap');
+
+body{
+    background-color: rgb(241, 19, 111);
+    color: azure;
+    font-family: "Big Shoulders Stencil", Arial;
+}
